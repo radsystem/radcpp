@@ -1,4 +1,4 @@
-# radcpp
+# radC++
 RADC++ (aka Red Cop) - C++ CGI MySQL/PostgreSQL based MVC + ORM System - web applications development
 
 - RAD System C++ is for building (with a big ease) robust web applications that run under unmrella pf CGI (Apache).
